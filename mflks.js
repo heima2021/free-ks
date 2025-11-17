@@ -3,7 +3,7 @@
 //代理格式：socks5://账号:密码@IP:端口
 //CK格式：备注#ck#salt#代理 支持一键抓包
 //出本地hook搭建模块，搜索追加本源码，出租接口
-//Task=food,box,look   # 执行任务（food=吃饭 box=开宝箱 look=看广告）默认全部执行
+//Task=food,box,look   # 执行任务（food=饭补 box=开宝箱 look=看广告）默认全部执行
 //km=你的卡密          # 卡密变量
 //ksck=配置            # 账号配置（支持ksck、ksck1-ksck666）
 //round=35            # 任务轮数（默认35）
